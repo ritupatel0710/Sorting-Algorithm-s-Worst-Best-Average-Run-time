@@ -1,0 +1,52 @@
+BST a
+inorder traversal of the BST: 
+-2
+0
+3
+8
+17
+copy of a
+inorder traversal of the BST: 
+-2
+0
+3
+8
+17
+a after inserting into b
+inorder traversal of the BST: 
+-2
+0
+3
+8
+17
+b:
+inorder traversal of the BST: 
+-2
+0
+3
+8
+13
+17
+AA: 
+inorder traversal of the BST: 
+-2
+0
+3
+5
+BB: 
+inorder traversal of the BST: 
+94
+100
+113
+120
+CC: 
+inorder traversal of the BST: 
+-2
+0
+3
+5
+50
+94
+100
+113
+120
